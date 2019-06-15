@@ -1,0 +1,75 @@
+Negative price detected. Changing item price to default of 0.
+Receipt:
+Item 1001	 Snickers        	 $0.75
+Item 3033	 Starbucks Blend 	 $6.99
+Item 2222	 Chips Ahoy      	 $3.29
+Item 9212	 Large T Shirt   	 $15.99
+Total: $27.02
+
+Receipt:
+Item 1001	 Snickers        	 $0.75
+Item 3033	 Starbucks Blend 	 $6.99
+Item 2222	 Chips Ahoy      	 $3.29
+Item 9212	 Large T Shirt   	 $15.99
+Item 1234	 Dozen Eggs      	 $3.69
+Item 1234	 Dozen Eggs      	 $3.69
+Item 5545	 Clementines     	 $7.99
+Item 3222	 Orowheat bread  	 $4.99
+Item 5122	 Red grapes      	 $5.49
+Total: $52.87
+
+Receipt:
+Item 1001	 Snickers        	 $0.75
+Item 3033	 Starbucks Blend 	 $6.99
+Item 2222	 Chips Ahoy      	 $3.29
+Item 9212	 Large T Shirt   	 $15.99
+Item 1234	 Dozen Eggs      	 $3.69
+Item 1234	 Dozen Eggs      	 $3.69
+Item 5545	 Clementines     	 $7.99
+Item 3222	 Orowheat bread  	 $4.99
+Item 5122	 Red grapes      	 $5.49
+Item 1121	 Vanilla yogurt  	 $0.75
+Item 2121	 Planters Peanuts	 $8.84
+Total: $62.46
+
+Receipt:
+Item 1001	 Snickers        	 $0.75
+Item 3033	 Starbucks Blend 	 $6.99
+Item 2222	 Chips Ahoy      	 $3.29
+Item 9212	 Large T Shirt   	 $15.99
+Item 1234	 Dozen Eggs      	 $3.69
+Item 5545	 Clementines     	 $7.99
+Item 3222	 Orowheat bread  	 $4.99
+Item 5122	 Red grapes      	 $5.49
+Item 1121	 Vanilla yogurt  	 $0.75
+Item 2121	 Planters Peanuts	 $8.84
+Total: $58.77
+
+Item number 0 not found. Did not delete.
+Receipt:
+Item 3033	 Starbucks Blend 	 $6.99
+Item 2121	 Planters Peanuts	 $8.84
+Total: $15.83
+
+Cannot add another item to receipt. Maximum size has been reached.
+
+Cannot add another item to receipt. Maximum size has been reached.
+
+Item number 3222 not found. Did not delete.
+Receipt:
+Item 2121	 Planters Peanuts	 $8.84
+Total: $8.84
+
+Receipt:
+Total: $0.00
+
+Item number 1234 not found. Did not delete.
+
+Receipt:
+Total: $0.00
+
+Receipt:
+Item 4424	 Pantene Shampoo 	 $0.00
+Item 3222	 Orowheat bread  	 $4.99
+Total: $4.99
+
